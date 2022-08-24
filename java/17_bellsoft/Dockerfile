@@ -1,4 +1,4 @@
-FROM        --platform=$TARGETOS/$TARGETARCH bellsoft/liberica-openjdk-alpine:17
+FROM        --platform=$TARGETOS/$TARGETARCH bellsoft/liberica-openjdk-debian:17
 
 LABEL       author="FnlTochka" maintainer="me@fnltochka.ru"
 
